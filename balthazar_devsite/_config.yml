@@ -1,0 +1,79 @@
+keep_files: [docs]
+permalink: pretty
+baseurl: ""
+full_name: Jeremy Sintes
+project_short_description: Balthazar is a virtual colleague with one mojo  dream big, start small, act now. He will help you running any project based on solid bases and ready to scale up.
+project_name: Balthazar
+project_slug: balthazar
+version: 0.0.1
+git_username: jeremysintes
+git_source: github.com
+email: jeremy.sintes@gmail.com
+open_source_license: MIT license
+
+
+# # # # # # # # # # # # # # # # 
+#  C O N F I G U R A T I O N  #
+# # # # # # # # # # # # # # # # 
+
+#----------------#
+# SOCIAL NETWORK #
+#----------------#
+
+# TWITTER
+# Option : y / your twitter's URL
+# - y = twitter.com/GIT_USERNAME
+twitter: y
+
+# FACEBOOK
+# Option : y / your Facebook's URL
+# - y = 
+facebook: y
+
+# GOOGLE PLUS
+# Option : y / your Google plus' URL
+# - y = 
+googleplus: y
+
+# LINKEDIN
+# Option : y / your Linkedin's URL
+# - y = 
+linkedin: y
+
+# YOUTUBE
+# Option : y / your Youtube's URL
+# - y = 
+youtube: y
+
+
+#-------#
+# TOOLS #
+#-------#
+
+# BLOG
+# Option : y / your BLOG's URLS  
+# - y = jekyll URL = BASEURL/blog
+dev_blog: y
+
+
+# TUTORIAL
+# Option : y / your Tutorial's URLS  
+# - y = jekyll URL = BASEURL/tutorial/
+tutorial: y
+
+# TOOLS
+# Option : y  
+tools: y
+
+# DOCUMENTATION
+# Option : readthedocs / y / your documentation's URLS  
+# - readthedocs URL =  is based on the project_slug
+# - y = jekyll URL = BASEURL/docs/_build/
+documentation: y
+
+
+# CHATROOM
+# Option : slack / gitter / your chat's URL  
+# - Slack URL = PROJECT_SLUG.slack.com
+# - Gitter URL = gitter.im/PROJECT_SLUG
+chat: slack
